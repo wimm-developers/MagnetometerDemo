@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2012 WIMM Labs Incorporated -->
+<resources>
+    <string name="app_name">MagnetometerDemo</string>
+    <string name="interference_text">Interference Detected\n\nWave device in\nlarge figure 8s ∞\nor move it from\ninterference</string>
+</resources>
